@@ -47,4 +47,4 @@ jobs:
       # Expands the configuration template and deploys the microservice.
       #
       - name: destroy
-        run: ./scripts/destroy.sh
+        run: ./scripts/delete.sh
